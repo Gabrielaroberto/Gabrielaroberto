@@ -11,7 +11,7 @@ I'm currently studying **Information Systems Technologies and Programming**, whi
 ### 💻 Technologies & Tools
 
 - **Programming:** C#
-- **Databases:** SQL, PostgreSQL
+- **Databases:** SQL
 - **Web Development:** HTML5, CSS3, Bootstrap
 - **Tools:** Visual Studio, Git, GitHub
 - **Networking:** Cisco Packet Tracer
